@@ -1,2 +1,4 @@
 <!DOCTYPE htmhl>
-<html>
+<html lang="en">
+<head>
+</head>
